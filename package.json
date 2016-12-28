@@ -1,7 +1,7 @@
 {
-  "name": "cardapp",
+  "name": "star_wars_v2",
   "version": "1.0.0",
-  "description": "A postcard app",
+  "description": "A Star Wars movie app that gives information on each of the movies",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
